@@ -1,0 +1,3 @@
+# QQReplyer
+采用go-cqhttp实现qq收发信息
+可选择使用chatglm或ownthink作为应答的ai
